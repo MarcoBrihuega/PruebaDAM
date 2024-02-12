@@ -1,4 +1,10 @@
 form input {
 
 size: 50px;
+margin: 30px;
+  
+}
+form {
+background-color:green;
+  
 }
